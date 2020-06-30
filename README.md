@@ -1,5 +1,5 @@
 # Boston House Price Prediction
-Preticting the price of the houses in Boston.Data is available in scikit-learn library or you can get it from<a href="https://www.kaggle.com/schirmerchad/bostonhoustingmlnd">Kaggle</a>.
+Preticting the price of the houses in Boston.Data is available in scikit-learn library or you can get it from <a href="https://www.kaggle.com/schirmerchad/bostonhoustingmlnd">Kaggle</a>.
 
 
 
@@ -39,4 +39,4 @@ Dataset have 13column(features) and 506 rows.Name and Description of each featut
 - Ridge Regression(r2 score=0.66)
 - DecisionTree Regressor(r2 score=0.87)
 
-![DecisionTree](decision_tree.png)
+<img src="decision_tree.png" alt="DecisionTree" width="1400" height="500" />
