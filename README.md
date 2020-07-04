@@ -1,5 +1,5 @@
 # Boston House Price Prediction
-Preticting the price of the houses in Boston.Data is available in scikit-learn library or you can get it from <a href="https://www.kaggle.com/schirmerchad/bostonhoustingmlnd">Kaggle</a>.
+Predicting the price of the houses in Boston.Data is available in scikit-learn library or you can get it from <a href="https://www.kaggle.com/schirmerchad/bostonhoustingmlnd">Kaggle</a>.
 
 
 
